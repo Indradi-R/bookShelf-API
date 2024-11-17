@@ -1,0 +1,14 @@
+{ 
+    "extends": "airbnb-base", 
+    "env": { 
+        "node": true,
+        "commonjs": true, 
+        "es6": true 
+    }, 
+    "rules": {
+        "no-trailing-spaces": "off",
+        "indent": ["error", 2],
+        "implicit-arrow-linebreak": "off",
+        "no-console": "off"
+    }
+}
